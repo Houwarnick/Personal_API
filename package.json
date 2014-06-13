@@ -1,0 +1,10 @@
+{
+	"name": "Personal_API",
+	"description": "Express practice by building an API",
+	"version": "0.0.1",
+	"private": "true",
+	"dependencies": {
+		"express": "4.4.3",
+		"body-parser": "*"
+	}
+}
